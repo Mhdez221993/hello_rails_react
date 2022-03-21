@@ -1,5 +1,5 @@
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.11.1/ext/bootsnap
-/home/moises/.rvm/rubies/ruby-2.5.1/bin/ruby -I /home/moises/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220321-4300-tnu5qn.rb extconf.rb
+/home/moises/.rvm/rubies/ruby-2.5.1/bin/ruby -I /home/moises/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220321-10672-yc3bnp.rb extconf.rb
 creating Makefile
 
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.11.1/ext/bootsnap
@@ -24,4 +24,4 @@ linking shared-object bootsnap/bootsnap.so
 
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.11.1/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -m 0755 bootsnap.so ./.gem.20220321-4300-vj0w3u/bootsnap
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20220321-10672-mc8uie/bootsnap

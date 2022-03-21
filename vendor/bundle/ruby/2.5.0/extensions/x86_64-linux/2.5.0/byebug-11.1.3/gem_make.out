@@ -1,5 +1,5 @@
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
-/home/moises/.rvm/rubies/ruby-2.5.1/bin/ruby -I /home/moises/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220321-4300-404rn7.rb extconf.rb
+/home/moises/.rvm/rubies/ruby-2.5.1/bin/ruby -I /home/moises/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220321-10672-v8ct46.rb extconf.rb
 creating Makefile
 
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -m 0755 byebug.so ./.gem.20220321-4300-z4mmpj/byebug
+/usr/bin/install -m 0755 byebug.so ./.gem.20220321-10672-difo10/byebug

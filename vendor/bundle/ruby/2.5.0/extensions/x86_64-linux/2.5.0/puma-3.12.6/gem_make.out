@@ -1,5 +1,5 @@
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/puma-3.12.6/ext/puma_http11
-/home/moises/.rvm/rubies/ruby-2.5.1/bin/ruby -I /home/moises/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220321-4300-w8q68j.rb extconf.rb
+/home/moises/.rvm/rubies/ruby-2.5.1/bin/ruby -I /home/moises/.rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220321-10672-1araey6.rb extconf.rb
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -53,4 +53,4 @@ linking shared-object puma/puma_http11.so
 
 current directory: /home/moises/dev/hello-rails-react/vendor/bundle/ruby/2.5.0/gems/puma-3.12.6/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -m 0755 puma_http11.so ./.gem.20220321-4300-1w2aipx/puma
+/usr/bin/install -m 0755 puma_http11.so ./.gem.20220321-10672-1vd43j5/puma

@@ -1,5 +1,6 @@
 class Api::MessagesController < ApplicationController
   def index
-    render json: Message.order('RANDOM()').limit(1)
+    message = Message.order(Arel.sql('RANDOM()')).first
+    render json: { message: message.greeting }
   end
 end

@@ -1,17 +1,16 @@
-import PropTypes from "prop-types";
-import React from "react";
-class Greetings extends React.Component {
-  render() {
-    return (
-      <React.Fragment>
-        Greeting: {this.props.greeting}
-        <h1>Hello from greeting</h1>
-      </React.Fragment>
-    );
-  }
-}
+import React, { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { fetchRandomGreeting } from "../redux/greetings";
 
-Greetings.propTypes = {
-  greeting: PropTypes.string
+const Greeting = () => {
+  const dispatch = useDispatch();
+  const { message } = useSelector((state) => state.greetings);
+
+  useEffect(() => {
+    dispatch(fetchRandomGreeting());
+  }, []);
+
+  return <h1>{message}</h1>;
 };
-export default Greetings
+
+export default Greeting;

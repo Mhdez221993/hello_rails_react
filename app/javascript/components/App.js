@@ -1,10 +1,15 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Greetings from "./Greetings";
+
 class App extends React.Component {
   render() {
     return (
-      <React.Fragment>
-        <h1>Hi form App component</h1>
-      </React.Fragment>
+      <Router>
+        <Routes>
+          <Route exact path="/" element={<Greetings />} />
+        </Routes>
+      </Router>
     );
   }
 }

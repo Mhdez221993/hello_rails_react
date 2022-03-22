@@ -27,6 +27,7 @@ Run in your terminal `git clone git@github.com:Mhdez221993/hello-rails-react.git
 
 - [How to set up a Rails 7 project with React and Jest](https://medium.com/rd-shipit/how-to-set-up-a-rails-7-project-with-react-and-jest-f2e016bfbdf3)
 - [How to create a Rails project with a React and Redux front-end](https://www.freecodecamp.org/news/how-to-create-a-rails-project-with-a-react-and-redux-front-end-8b01e17a1db/)
+[How to fix 'Unsupported platform](https://stackoverflow.com/questions/56103865/how-to-fix-unsupported-platform-for-fsevents1-2-9-wanted-osdarwin-arch)
 
 
 ## Authors

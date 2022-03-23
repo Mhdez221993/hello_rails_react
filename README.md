@@ -2,7 +2,6 @@
 
 By now I've used many different gems with Rails and this exercise will have you connect previous knowledge with new knowledge as you get a chance to use the react-rails gem. This gem allows you to build React components as a part of your Rails JavaScript and serve it in a component, react_component, to be used in a regular ERB file.
 
-
 ## Built With
 
 - Ruby on Rails
